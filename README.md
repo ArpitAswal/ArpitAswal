@@ -1,7 +1,7 @@
 ## Hi there 👋
 
  # 💫 About Me:
-I'm currently working on Flutter.<br>I would be grateful to collaborate with others in Flutter<br>I am happy to learn from my mistakes in my project to improve myself<br>I am also making Android Projects<br>I am still continuously learning more features in Flutter and Android<br>To reach me you can personally mail me in my given profile email 
+I'm currently working on Flutter.<br>I would be grateful to collaborate with others in Flutter<br>I am happy to learn from my mistakes in my project to improve myself<br>I am also making Android Projects<br>I am still continuously learning more features in Flutter and Android<br>To reach me you can personally mail me in my given profile email. 
 
 
 ## 🌐 Socials:
@@ -16,6 +16,11 @@ I'm currently working on Flutter.<br>I would be grateful to collaborate with oth
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArpitAswal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🏆 GitHub Achievments
+https://github.com/users/ArpitAswal/achievements/pull-shark
+
+https://github.com/users/ArpitAswal/achievements/yolo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
