@@ -1,7 +1,17 @@
 ## Hi there 👋
 
  # 💫 About Me:
-I'm currently working on Flutter.<br>I would be grateful to collaborate with others in Flutter<br>I am happy to learn from my mistakes in my project to improve myself<br>I am also making Android Projects<br>I am still continuously learning more features in Flutter and Android<br>To reach me you can personally mail me in my given profile email. 
+Current Focus : I am currently honing my skills in Flutter development.
+
+Collaborative Opportunities: I am eager to collaborate with other Flutter developers to share knowledge and work on innovative projects.
+
+Continuous Learning: I am committed to ongoing professional development and am open to learning from my experiences and mistakes to improve my skills.
+
+Diverse Skillset: In addition to Flutter, I am also proficient in Android app development.
+
+Future Endeavors: I am actively exploring and learning new features and techniques in both Flutter and Android development.
+
+Contact Information: For further discussion or collaboration, please feel free to contact me via the email address provided in my profile. 
 
 
 ## 🌐 Socials:
